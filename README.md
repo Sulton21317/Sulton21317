@@ -8,9 +8,10 @@ I'm **Sulton**, a passionate developer interested in building amazing software s
 - Interests: Web Development, APIs, Cloud Architecture
 
 #### 📊 GitHub Stats
+
 ![Sulton21317's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sulton21317&show_icons=true&theme=catppuccin_latte)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulton21317&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulton21317&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 💼 Featured Projects
 - [Project 1](link) - Brief description
